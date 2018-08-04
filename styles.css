@@ -1,0 +1,189 @@
+.quicksand {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.body {
+    background-color: #939393;
+    color: #939393;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+    display: block;
+    font-family: 'quicksand', sans-serif;
+}
+
+a {
+    text-decoration: none
+}
+a {
+    color: #ffff00
+}
+
+.Boxes {
+    display: block;
+    margin: auto;
+    padding: 20px 50px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 1em;
+    border-color: #000000;
+    width: 20%;
+    position: relative;
+}
+
+a:hover {
+    color: #0000ff;
+    cursor: pointer;
+}
+
+.Span1 {
+    color: #ff4500;
+    font-weight: bold;
+}
+
+.Span2 {
+    color: #ff4500;
+    font-weight: bold;
+}
+
+.Span3 {
+    color: #ff4500;
+    font-weight: bold;
+}
+
+.Span4 {
+    color: #ff4500;
+    font-weight: bold;
+}
+
+.Box1 {
+    background-color: #ffffff;
+}
+
+.Box2 {
+    background-color: #add8e6;
+}
+
+.Box3 {
+    background-color: #00f09a;
+}
+
+.Box4 {
+    background-color: #191790;
+}
+
+.image1 {
+    width: 5em;
+    height: 5em;
+    background-color: #000080;
+    display: inline-block;
+    position: relative;
+    right: 50px;
+    top: 75px;
+}
+
+.image2 {
+    width: 5em;
+    height: 5em;
+    background-color: #808000;
+    display: inline-block;
+    position: relative;
+    right: 50px;
+    top: 75px;
+}
+
+.image3 {
+    width: 5em;
+    height: 5em;
+    background-color: #4169e1;
+    display: inline-block;
+    position: relative;
+    right: 50px;
+    top: 75px;
+}
+
+.image4 {
+    width: 5em;
+    height: 5em;
+    background-color: #98fb98;
+    display: inline-block;
+    position: relative;
+    right: 50px;
+    top: 75px;
+}
+
+.header1 {
+    color: #00ff00;
+    text-align: center;
+}
+
+.header2 {
+    color: #0000ff;
+    text-align: center;
+}
+
+#show1 {
+    color: #000080;
+}
+
+#show2 {
+    color: #a52a5a;
+}
+
+#show3 {
+    color: #ff8c00;
+}
+
+#show4 {
+    color: #cd5c5c;
+}
+
+#show5 {
+    color: #000000;
+}
+
+.list1 {
+    color: #ff0000;
+}
+
+.list2 {
+    color: #ff6347;
+}
+
+.list3 {
+    color: #e9967a;
+}
+
+#friends {
+    color: #483d8b;
+}
+
+#travel {
+    color: #ff8c00;
+}
+
+#restaurants {
+    color: #fafad2;
+}
+
+.frienddiv {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000000;
+}
+.traveldiv {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000000;
+}
+.restaurantdiv {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000000;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+}
