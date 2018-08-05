@@ -4,7 +4,6 @@
 
 .body {
     background-color: #939393;
-    color: #939393;
 }
 
 h2, p, .readme-wrapper {
@@ -74,73 +73,68 @@ a:hover {
 }
 
 .image1 {
-    width: 5em;
-    height: 5em;
+    width: 4em;
+    height: 4em;
     background-color: #000080;
     display: inline-block;
     position: relative;
     right: 50px;
-    top: 75px;
+    top: 90px;
 }
 
 .image2 {
-    width: 5em;
-    height: 5em;
+    width: 4em;
+    height: 4em;
     background-color: #808000;
     display: inline-block;
     position: relative;
     right: 50px;
-    top: 75px;
+    top: 90px;
 }
 
 .image3 {
-    width: 5em;
-    height: 5em;
+    width: 4em;
+    height: 4em;
     background-color: #4169e1;
     display: inline-block;
     position: relative;
     right: 50px;
-    top: 75px;
+    top: 90px;
 }
 
 .image4 {
-    width: 5em;
-    height: 5em;
+    width: 4em;
+    height: 4em;
     background-color: #98fb98;
     display: inline-block;
     position: relative;
     right: 50px;
-    top: 75px;
+    top: 90px;
 }
 
 .header1 {
-    color: #00ff00;
-    text-align: center;
-}
-
-.header2 {
     color: #0000ff;
     text-align: center;
 }
 
-#show1 {
-    color: #000080;
-}
-
-#show2 {
+.header2 {
     color: #a52a5a;
+    text-align: center;
 }
 
-#show3 {
+.header3 {
     color: #ff8c00;
+    text-align: center
 }
 
-#show4 {
+.header4 {
     color: #cd5c5c;
+    text-align: center
 }
 
-#show5 {
+.header5 {
     color: #000000;
+    text-align: center
 }
 
 .list1 {
@@ -148,42 +142,25 @@ a:hover {
 }
 
 .list2 {
-    color: #ff6347;
+    color: #191970;
 }
 
 .list3 {
-    color: #e9967a;
-}
-
-#friends {
-    color: #483d8b;
-}
-
-#travel {
-    color: #ff8c00;
-}
-
-#restaurants {
-    color: #fafad2;
-}
-
-.frienddiv {
-    border-width: 2px;
-    border-style: solid;
-    border-color: #000000;
-}
-.traveldiv {
-    border-width: 2px;
-    border-style: solid;
-    border-color: #000000;
-}
-.restaurantdiv {
-    border-width: 2px;
-    border-style: solid;
-    border-color: #000000;
+    color: #ffffff;
 }
 
 ul {
     text-align: center;
     list-style: inside;
+    color: #8a2be2;
+    display: block;
+}
+
+h1{
+    color: #ffff;
+}
+
+h2{
+    font: bold;
+    font-size: 40px;
 }
