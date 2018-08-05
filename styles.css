@@ -6,7 +6,7 @@
     background-color: #939393;
 }
 
-h2, p, .readme-wrapper {
+p, .readme-wrapper {
     text-align: center;
     display: block;
     font-family: 'quicksand', sans-serif;
